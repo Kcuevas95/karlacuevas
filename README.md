@@ -4,7 +4,7 @@
 
 🌻  Currently working on strengthening my skills in <strong> Javascript and Python </strong>
 
-👨‍💻  Check out my graphic design portfolio https://www.karlacuevas.com
+👩🏻‍💻  Check out my graphic design portfolio https://www.karlacuevas.com
 
 🎯  My hobbies include doing yoga, reading, watching anime, eating sushi and being socially awkward
 
