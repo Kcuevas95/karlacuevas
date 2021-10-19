@@ -8,4 +8,4 @@
 
 🎯 My hobbies include doing yoga, reading, watching anime, eating sushi and being socially awkward
 
-📫 Feel free to send me an email if you have any questions karlacuevasdesigns@yahoo.com
+📫 Feel free to send me an email if you have any questions karlacuevasdesigns@gmail.com
