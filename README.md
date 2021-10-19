@@ -1,4 +1,4 @@
-<center> karlacuevas</center
+# karlacuevas
 
 💻 Working on my <strong>JDM website</strong> at the moment
 
