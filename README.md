@@ -1,6 +1,6 @@
 # karlacuevas
 
-💻 Working on a currency converter app at the moment
+💻 Working on my <strong> JDM website </strong> at the moment
 
 🌻 Currently working on strengthen my skills in <strong> Javascript and Python </strong>
 
