@@ -12,7 +12,7 @@
 
 <br>
 
-[![Karla's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlacuevasc)](https://github.com/**anuraghazra**/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlacuevasc&show_icons=true&theme=cobalt)
 
 
 <h3 align="left">Languages and Tools:</h3>
