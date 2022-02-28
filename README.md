@@ -1,6 +1,6 @@
 # Karla Cuevas
 
-💻  Currently working on a website for <strong>JDM vehicles</strong> 
+💻  Currently working on a messaging app
 
 🌻  Currently working on strengthening my skills in <strong> Javascript and Python </strong>
 
