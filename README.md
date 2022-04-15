@@ -1,7 +1,5 @@
 # Karla Cuevas
 
-💻  Currently working on a messaging app
-
 🌻  Currently working on strengthening my skills in <strong> Javascript and Python </strong>
 
 👩🏻‍💻  Check out my graphic design portfolio https://www.karlacuevas.com
